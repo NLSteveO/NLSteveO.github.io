@@ -1,4 +1,4 @@
-markdown: rdiscount
+markdown: redcarpet
 permalink: /posts/:title
 rdiscount:
   extensions: [smart]
@@ -8,5 +8,5 @@ gems:
 
 name: Steve O'Keefe
 url: http://nlsteveo.github.io
-description: 
+description: this is a test. hello world.
 twitter: nlsteveo
