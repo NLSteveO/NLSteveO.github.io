@@ -1,0 +1,12 @@
+markdown: rdiscount
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+
+gems:
+  - jekyll-sitemap
+
+name: Steve O'Keefe
+url: http://nlsteveo.github.io
+description: 
+twitter: nlsteveo
