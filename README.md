@@ -1,38 +1,16 @@
-# iCard-Resume
+# NLSteveO.github.io
 -------
-iCard-Resume is a theme built on top of bootstrap and other freely available libraries. Its aimed to provide a fully furnished Jekyll theme for personal resume.
+This is the repository for my website using GitHub pages. My GitHub username is NLSteveO and my name is Stephen O'Keefe, I am a recent graduate of [Computer Science](http://www.mun.ca/computerscience/) from [Memorial University of Newfoundland and Labrador](http://www.mun.ca/). I built my website off of the theme iCard-Resume, which is a theme built on top of bootstrap and other freely available libraries. Its aimed to provide a fully furnished Jekyll theme for a personal resume.
 
-## Demo
+## Thanks
 -------
-You can see the live demo of [iCard-Resume](http://ddbullfrog.com/)
+I would like to send out a speacial thanks to Dong Liang, the author to this Jekyll theme. I came across it on jekyllthemes.org and modified it to fit my preferences and needs.
 
-This is the web page on desktop browser.
+The theme page can be found [here](http://jekyllthemes.org/themes/icard-resume/)
 
-![Desktop](https://github.com/ddbullfrog/iCard-Resume/blob/gh-pages/_assets/normal.jpg)
+Or view the [demo](http://ddbullfrog.com/iCard-Resume/)
 
-## Getting Started
--------
-- [Fork this repository](https://github.com/ddbullfrog/iCard-Resume/fork)
-- Clone it: `git clone https://github.com/YOUR-USER/ddbullfrog.github.io`
-- Run the jekyll server: `jekyll serve`
-
-You should have a server up and running locally at <http://localhost:4000>.
-
-## Features
--------
-- Responsive Jekyll theme
-- Easy integration with Google Analytics
-
-## Configuration
--------
-- _config.yml
--  CNAME
-	If you're using this on GitHub Pages with a custom domain name, 
-	you'll want to change this to be the domain you're going to use. 
-	All that should be in here is a domain name on the first line and nothing else (like: `example.com`).
--  avatar.JPG
-	This is a smaller version of my gravatar for use as the icon in your browser's address bar. 
-	You should change it to whatever you'd like.
+Or the [repository](https://github.com/ddbullfrog/iCard-Resume)
 
 ## License
 -------
