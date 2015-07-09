@@ -88,18 +88,22 @@ layout: default
             {% if site.author.programmingSkills %}
                 <h3 class="title with-icon"><span class="fa fa-code cat-title"></span> Programming Skills</h3>
                 <div class="grid-block">
-                    <ul class="list-unstyled list-skills">
-                        {% for programmingSkill in site.author.programmingSkills %}
-                            <li>
-                                {% if programmingSkill.name %}
-                                    <span class="caption-skill">{{ programmingSkill.name }}</span>
-                                {% endif %}
+                    <table class="list-unstyled list-skills" style="width: 100%;">
+                        <tr>
+                            {% for programmingSkill in site.author.programmingSkills %}
+                                <td style="width: 50%;">
+                                    {% if programmingSkill.name %}
+                                        <span class="caption-skill">{{ programmingSkill.name }}</span>
+                                    {% endif %}
                                     <div class="progress">
                                         <div class="progress-bar" style="width: 100%"></div>
                                     </div>
-                            </li>
-                        {% endfor %}
-                    </ul>
+                                </td>
+                                {% if programmingSkill.even %}
+                                    </tr>
+                                {% endif %}
+                            {% endfor %}
+                    </table>
                 </div>
             {% endif %}
             {% if site.author.environments %}
