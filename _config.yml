@@ -74,25 +74,17 @@ author:
   programmingSkills:
     - skill1:
       name: Java
-      even: no
     - skill2:
       name: HTML
-      even: yes
     - skill3:
       name: JavaScript
-      even: no
     - skill4:
       name: CSS
-      even: yes
     - skill5:
       name: Objective-C
-      even: no
     - skill6:
       name: C++
-      even: yes
     - skill7:
       name: C
-      even: no
     - skill8:
       name: Python
-      even: yes
