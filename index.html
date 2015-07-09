@@ -90,14 +90,11 @@ layout: default
                 <div class="grid-block">
                     <ul class="list-unstyled list-skills">
                         {% for programmingSkill in site.author.programmingSkills %}
-                            <li>
-                                {% if programmingSkill.name %}
-                                    <span class="caption-skill">{{ programmingSkill.name }}</span>
-                                {% endif %}
-                                    <div class="progress">
-                                        <div class="progress-bar" style="width: 100%"></div>
-                                    </div>
-                            </li>
+                            {% if programmingSkill.name %}
+                                <li>
+                                    <i class="fa fa-check"></i> <span class="badge badge-green badge-right-float"></span>{{ programmingSkill.name }}
+                                </li>
+                           {% endif %}
                         {% endfor %}
                     </ul>
                 </div>
