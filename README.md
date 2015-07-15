@@ -1,16 +1,17 @@
-# Skinny Bones Jekyll Starter
+# NLSteveO.github.io
+-------
+This is the repository for my website using GitHub pages. My GitHub username is NLSteveO and my name is Stephen O'Keefe, I am a recent graduate of [Computer Science](http://www.mun.ca/computerscience/) from [Memorial University of Newfoundland and Labrador](http://www.mun.ca/). I built my website off of the theme iCard-Resume, which is a theme built on top of bootstrap and other freely available libraries. Its aimed to provide a fully furnished Jekyll theme for a personal resume.
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+## Thanks
+-------
+I would like to send out a speacial thanks to Dong Liang, the author to this Jekyll theme. I came across it on jekyllthemes.org and modified it to fit my preferences and needs.
 
-I'm currently using a variation of it on my personal website [Made Mistakes](http://mademistakes.com) with some modifications. To learn more about how to use the theme and install it check out the [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (*work in progress*).
+The theme page can be found [here](http://jekyllthemes.org/themes/icard-resume/)
 
-![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
+Or view the [demo](http://ddbullfrog.com/iCard-Resume/)
 
----
+Or the [repository](https://github.com/ddbullfrog/iCard-Resume)
 
-## Notable Features
-
-* Stylesheet built using Sass. *Requires Jekyll 2.x*
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
+## License
+-------
+Open sourced under the [MIT license](LICENSE.md).
