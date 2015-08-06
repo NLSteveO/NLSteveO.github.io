@@ -23,27 +23,34 @@ author:
   gavatar: /assets/img/AVATAR.jpg
   workHistory:
     - work1:
+      company: Suncor Energy
+      location: St. John's, NL
+      title: General Contractor
+      started: 2015
+      duration: (2015 - Present)
+      description: Contracted for 3 weeks packing up files for relocation.
+    - work2:
       company: Marie's Bakery
       location: St. John's, NL
       title: Deli Server
       started: 2013
       duration: (2013 - Present)
       description: Usual duties include serving customers from the bakery/deli and serving hot meals during weekdays. Also, preparing orders for drivers to deliver to the other stores, helping receive shipments from suppliers, helping train new employees, and assisting the bakers by packaging product.
-    - work2:
+    - work3:
       company: Wallnuts Climbing Centre
       location: St. John's, NL
       title: Belayer
       started: 2013
       duration: (2013 - Present)
       description: Usual duties are providing safe and practised belays for various types of climbing groups of all ages and providing clear communication and presentation of safety and rules of climbing, for Wallnuts Climbing Centre.
-    - work3:
+    - work4:
       company: McDonald's
       location: St. John's, NL
       title: Crew / Crew Trainer / Swing Manager
       started: 2005
       duration: (2005 - 2013)
       description: (Swing Manager) - Usual duties included balancing payroll and cashes, while responsible for managing the operation of the store and employees. Awarded swing manager of the month and top of the class in my Basic Shift Management course. ***** (Crew Trainer) - Assisted the managers in their daily tasks and running the floor. Trained new and current employees throughout various positions, while also being the lead trainer in training other trainers and employees in new products and procedures. Delegated various tasks to crew members. Awarded employee of the month and employee of the year(2009). ***** (Crew) - Was trained in all crew positions throughout all stations in the store. Awarded employee of the month twice and first time while still a rookie.
-    - work4:
+    - work5:
       company: Computer Science Department of Memorial University
       location: St. John's, NL
       title: Future Pathways Student
