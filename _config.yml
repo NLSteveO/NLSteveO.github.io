@@ -23,34 +23,41 @@ author:
   gavatar: /assets/img/AVATAR.jpg
   workHistory:
     - work1:
+      company: Amec Foster Wheeler
+      location: St. John's, NL
+      title: Software Developer
+      started: 2015
+      duration: (2015 - Present)
+      description: Development and design of internal software from weather forecasting to tracking and displaying icebergs. Technologies used are Javascript, ReactJS, C#, Git, Amazon AWS, MS SQL, PostgreSQL, and Python. Daily development practises are Project Management(JIRA), Code Review(Bitbucket), Unit testing, and Git Workflows.
+    - work2:
       company: Suncor Energy
       location: St. John's, NL
       title: General Contractor
       started: 2015
-      duration: (2015 - Present)
+      duration: (2015)
       description: Contracted for about 6 weeks packing up files to be moved offsite in preparation for office relocation. Have been extended by 3 more weeks tobe assigned new duties, which include scanning invoices to be entered into documentum.
-    - work2:
+    - work3:
       company: Marie's Bakery
       location: St. John's, NL
       title: Deli Server
       started: 2013
-      duration: (2013 - Present)
+      duration: (2013 - 2015)
       description: Usual duties include serving customers from the bakery/deli and serving hot meals during weekdays. Also, preparing orders for drivers to deliver to the other stores, helping receive shipments from suppliers, helping train new employees, and assisting the bakers by packaging product.
-    - work3:
+    - work4:
       company: Wallnuts Climbing Centre
       location: St. John's, NL
       title: Belayer
       started: 2013
       duration: (2013 - Present)
       description: Usual duties are providing safe and practised belays for various types of climbing groups of all ages and providing clear communication and presentation of safety and rules of climbing, for Wallnuts Climbing Centre.
-    - work4:
+    - work5:
       company: McDonald's
       location: St. John's, NL
       title: Crew / Crew Trainer / Swing Manager
       started: 2005
       duration: (2005 - 2013)
       description: (Swing Manager) - Usual duties included balancing payroll and cashes, while responsible for managing the operation of the store and employees. Awarded swing manager of the month and top of the class in my Basic Shift Management course. ***** (Crew Trainer) - Assisted the managers in their daily tasks and running the floor. Trained new and current employees throughout various positions, while also being the lead trainer in training other trainers and employees in new products and procedures. Delegated various tasks to crew members. Awarded employee of the month and employee of the year(2009). ***** (Crew) - Was trained in all crew positions throughout all stations in the store. Awarded employee of the month twice and first time while still a rookie.
-    - work5:
+    - work6:
       company: Computer Science Department of Memorial University
       location: St. John's, NL
       title: Future Pathways Student
@@ -71,27 +78,19 @@ author:
     - environment2:
       name: Linux
     - environment3:
-      name: Windows Office 
-    - environment4:
       name: Git
+    - environment4:
+      name: Virtual Box
     - environment5:
-      name: VMWare Workstation
-    - environment6:
-      name: iOS Development
+      name: Docker
   programmingSkills:
     - skill1:
       name: Java
     - skill2:
-      name: HTML
-    - skill3:
       name: JavaScript
-    - skill4:
-      name: CSS
-    - skill5:
-      name: Objective-C
-    - skill6:
-      name: C++
-    - skill7:
-      name: C
-    - skill8:
+    - skill3:
       name: Python
+    - skill4:
+      name: C#
+    - skill5:
+      name: HTML and CSS
