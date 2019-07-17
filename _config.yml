@@ -23,19 +23,19 @@ author:
   gavatar: /assets/img/AVATAR.jpg
   workHistory:
     - work1:
-      company: Amec Foster Wheeler
+      company: Wood
       location: St. John's, NL
       title: Software Developer
       started: 2015
       duration: (2015 - Present)
-      description: Development and design of internal software from weather forecasting to tracking and displaying icebergs. Technologies used are Javascript, ReactJS, C#, Git, Amazon AWS, MS SQL, PostgreSQL, and Python. Daily development practises are Project Management(JIRA), Code Review(Bitbucket), Unit testing, and Git Workflows.
+      description: Developer on a team that follows the agile methodology and uses Atlassian suite of project management tools like JIRA, and BitBucket. Working as the primary developer on a couple projects, one using JavaScript and ArcGIS software with a C# backend, and another that uses Node.js for it's server side while the frontend uses ReactJS. Manage and run many of our systems on AWS. Optimized and updated older and current smaller projects as needed. Other tools used are MS SQL, PostgreSQL, Python, Docker.
     - work2:
       company: Suncor Energy
       location: St. John's, NL
       title: General Contractor
       started: 2015
       duration: (2015)
-      description: Contracted for about 6 weeks packing up files to be moved offsite in preparation for office relocation. Have been extended by 3 more weeks tobe assigned new duties, which include scanning invoices to be entered into documentum.
+      description: Contracted for about 6 weeks packing up files to be moved offsite in preparation for office relocation. Got extended by 3 more weeks(because thats when I got a new job as Software Developer) and assigned additional duties, which include scanning invoices to be entered into documentum(Software used for storing documents).
     - work3:
       company: Marie's Bakery
       location: St. John's, NL
@@ -56,7 +56,13 @@ author:
       title: Crew / Crew Trainer / Swing Manager
       started: 2005
       duration: (2005 - 2013)
-      description: (Swing Manager) - Usual duties included balancing payroll and cashes, while responsible for managing the operation of the store and employees. Awarded swing manager of the month and top of the class in my Basic Shift Management course. ***** (Crew Trainer) - Assisted the managers in their daily tasks and running the floor. Trained new and current employees throughout various positions, while also being the lead trainer in training other trainers and employees in new products and procedures. Delegated various tasks to crew members. Awarded employee of the month and employee of the year(2009). ***** (Crew) - Was trained in all crew positions throughout all stations in the store. Awarded employee of the month twice and first time while still a rookie.
+      multiDescription:
+        - section1:
+          description: (Swing Manager) - Usual duties included balancing payroll and cashes, while responsible for managing the operation of the store and employees. Awarded swing manager of the month and top of the class in my Basic Shift Management course.
+        - section2:
+          description: (Crew Trainer) - Assisted the managers in their daily tasks and running the floor. Trained new and current employees throughout various positions, while also being the lead trainer in training other trainers and employees in new products and procedures. Delegated various tasks to crew members. Awarded employee of the month and employee of the year(2009).
+        - section3:
+          description: (Crew) - Was trained in all crew positions throughout all stations in the store. Awarded employee of the month twice and first time while still a rookie.
     - work6:
       company: Computer Science Department of Memorial University
       location: St. John's, NL
@@ -80,17 +86,21 @@ author:
     - environment3:
       name: Git
     - environment4:
-      name: Virtual Box
+      name: AWS
     - environment5:
       name: Docker
+    - environment6:
+      name: JIRA
   programmingSkills:
     - skill1:
-      name: Java
+      name: Node.js
     - skill2:
-      name: JavaScript
+      name: ReactJS
     - skill3:
-      name: Python
+      name: JavaScript
     - skill4:
       name: C#
     - skill5:
-      name: HTML and CSS
+      name: Python
+    - skill6:
+      name: Java
